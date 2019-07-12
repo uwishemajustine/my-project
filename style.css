@@ -1,0 +1,134 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float:left;
+    margin:15px;
+    font-size:20px
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:brown;
+  
+  }
+  
+  body{
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuA8UP4_-52A2Aq2hC8yn_K-6fV-nqvxDVJqXGRPd98t-Frz1);
+      background-size:cover;}
+  
+  
+  
+  h1{
+    color:inherit;
+    background-size:250px 250px;
+    background-position:center center;
+    text-shadow:5px 5px 5px light blue;
+    height:50px;
+    width:1700px;
+    text-align:center;  
+    
+  }
+  
+  h2{
+    text-align:center;
+    font-size:30px;
+    width:1700px;
+    
+  }
+  
+  h3{
+    text-align:center;
+    font-size:19px;
+    width:1700px;
+    
+    }
+    
+    h5{
+      text-decoration:underline; 
+      text-align:center; 
+      float:center;
+      font-weight:normal;
+    }
+  
+  .container{
+            margin-top:10px;
+            padding:0;
+            width:1700px;
+            text-align:center;
+            }
+    
+  p{
+   font-size:20px;
+   color:black;
+   padding: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: justify;
+  
+  }
+  
+  .phones{
+  font-size:30px;
+  text-align:center;
+  padding:50px;  
+  }
+  
+  .tablets{
+  font-size:30px;
+  text-align:center;
+  padding:50px; 
+  }
+  
+  .smallphones{
+  font-size:30px;
+  text-align:center;
+  padding:50px;   
+  }
+  
+  .charges{
+  font-size:30px;
+  text-align:center;
+  padding:50px;  
+  }
+  
+  .Earphonesandheadphones{
+  font-size:30px;
+  text-align:center;
+  padding:50px;  
+  }
+  
+  div{
+  text-align:center;
+  font-size:30px;
+  }
+  .aboutus{
+  text-align:left;
+  } 
+  .unique{
+  width:7%;
+  height:7%;
+  float:right;
+   
+  }
+  footer{
+        width:100%;
+        height:50px;
+        text-align:center;
+        background-color:grey; 
+        font-size:30px;
+  }
+  
+  
